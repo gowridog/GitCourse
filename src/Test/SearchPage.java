@@ -7,6 +7,7 @@ public class SearchPage {
 		String employer = "Fitch";
 		
 		System.out.println(employer);
+		System.out.println("Added mew");
 	}
 
 }
