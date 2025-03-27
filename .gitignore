@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.classpath
+/.factorypath
+/target/
+.project
+.classes
+.classpath
+.settings
+.idea
+/encodings.xml
+/target/
+**/target/
+**/output/
+/Screenshots/
+**/.idea
+**/*.iml
+/bin/
+**/Automation_Report/
+**/FailedRerunScnearios/
