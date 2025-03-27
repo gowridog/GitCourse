@@ -1,14 +1,11 @@
 package main;
 
-public class HomePage {
+public class ReultPage {
 
 	public static void main(String[] args) {
 		System.out.println("HP T");
-		String user = "Admin";
+		String user = "Teacher";
 		System.out.println(user);
-		
-		String develper = "DevLead";
-		System.out.println(develper);
 
 	}
 
