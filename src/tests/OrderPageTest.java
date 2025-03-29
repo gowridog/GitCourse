@@ -7,6 +7,6 @@ public class OrderPageTest {
     public void orderTest()
     {
         System.out.println(true);
-       
+        Assert.assertEquals(true,true);
     }
 }
